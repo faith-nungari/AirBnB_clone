@@ -64,4 +64,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- **Faith Nungari** - [faykonye2@gmail.com](https://github.com/faith-nungari) [Linkedin](https://www.linkedin.com/in/faith-nungari-223b83153/)
+- **Faith Nungari** - [faykonye2@gmail.com](https://github.com/faith-nungari) ~ [Linkedin](https://www.linkedin.com/in/faith-nungari-223b83153/)
